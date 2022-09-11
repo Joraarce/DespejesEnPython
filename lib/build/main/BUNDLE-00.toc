@@ -1,0 +1,3 @@
+([('main',
+   '/Users/jose/Documents/ProjectNewton/venv/lib/dist/main',
+   'EXECUTABLE')],)
